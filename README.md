@@ -33,3 +33,5 @@ Feel free to reach out if you want to collaborate on projects or just chat about
 ---
 
 *"Good code, good coffee, good dogs – in that order (or sometimes all at once!)"*
+
+![](https://komarev.com/ghpvc/?username=Drei010&color=orange&style=flat-square)
