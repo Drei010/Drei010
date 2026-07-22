@@ -29,7 +29,10 @@ I'm passionate about developing apps and exploring the latest tech trends, espec
 ## Let's Connect
 
 Feel free to reach out if you want to collaborate on projects or just chat about tech!
-
+<p align="center">
+<a href="mailto:andreihidalgo16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 ---
 
 *"Good code, good coffee, good dogs – in that order (or sometimes all at once!)"*
